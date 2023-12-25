@@ -1,7 +1,7 @@
 
 <p align="center"><a href="http://www.boblog.com" target="_blank" rel="noopener noreferrer"><img width="234" src="https://cdn.boblog.com/boblog.png" alt="logo"></a></p>
 
-## 一、项目介绍   
+## 一、项目介绍     
 我们这个项目就是完成一个完整的博客项目，包含服务端接口API，管理后台，前端网站，以及部署上线流程。为了项目更好的区分，这个项目主要介绍使用 Node.js Koa2 框架开发一套完整的服务端接口 API 项目，另外的项目请点击以下：
 
 - 基于 React.js + Ant Design 实现的博客管理后台：[react-blog-admin](https://github.com/lfb/react-blog-admin)
